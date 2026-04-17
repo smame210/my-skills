@@ -1,0 +1,6 @@
+{
+  "eval_id": 0,
+  "eval_name": "vague-ecommerce-request-baseline",
+  "prompt": "用户说：\"我想做一个电商App，需要登录注册、商品浏览、购物车、下单功能\"",
+  "assertions": []
+}

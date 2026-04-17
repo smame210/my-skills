@@ -1,0 +1,6 @@
+{
+  "eval_id": 1,
+  "eval_name": "detailed-smart-notes-request-baseline",
+  "prompt": "用户说：\"帮我写一个PRD，项目叫'智能笔记助手'，目标是职场人士，帮助他们高效整理会议纪要，核心功能是语音转文字、自动摘要、标签分类，这次先做移动端App，优先级是语音转文字最高，预计3个月后上线\"",
+  "assertions": []
+}

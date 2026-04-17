@@ -1,0 +1,32 @@
+{
+  "eval_id": 1,
+  "eval_name": "detailed-smart-notes-request",
+  "prompt": "用户说：\"帮我写一个PRD，项目叫'智能笔记助手'，目标是职场人士，帮助他们高效整理会议纪要，核心功能是语音转文字、自动摘要、标签分类，这次先做移动端App，优先级是语音转文字最高，预计3个月后上线\"",
+  "assertions": [
+    {
+      "text": "生成了完整的PRD文档",
+      "passed": null,
+      "evidence": "with_skill输出了完整的PRD文档"
+    },
+    {
+      "text": "包含项目概述",
+      "passed": null,
+      "evidence": "PRD包含1.1项目概述章节"
+    },
+    {
+      "text": "包含用户画像",
+      "passed": null,
+      "evidence": "PRD包含目标用户画像"
+    },
+    {
+      "text": "包含需求列表",
+      "passed": null,
+      "evidence": "PRD包含1.6需求列表"
+    },
+    {
+      "text": "使用了Mermaid图表",
+      "passed": null,
+      "evidence": "PRD包含Mermaid流程图"
+    }
+  ]
+}

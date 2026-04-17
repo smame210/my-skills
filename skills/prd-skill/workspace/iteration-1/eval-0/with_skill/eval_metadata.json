@@ -1,0 +1,22 @@
+{
+  "eval_id": 0,
+  "eval_name": "vague-ecommerce-request",
+  "prompt": "用户说：\"我想做一个电商App，需要登录注册、商品浏览、购物车、下单功能\"",
+  "assertions": [
+    {
+      "text": "技能询问了目标用户",
+      "passed": null,
+      "evidence": "with_skill输出了询问目标用户的问题"
+    },
+    {
+      "text": "技能询问了核心功能优先级",
+      "passed": null,
+      "evidence": "with_skill输出了询问优先级的问题"
+    },
+    {
+      "text": "技能没有直接开始写PRD",
+      "passed": null,
+      "evidence": "with_skill先进行需求澄清，没有直接写PRD"
+    }
+  ]
+}

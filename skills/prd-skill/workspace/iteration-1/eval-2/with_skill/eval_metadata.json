@@ -1,0 +1,27 @@
+{
+  "eval_id": 2,
+  "eval_name": "very-vague-feedback-system",
+  "prompt": "用户说：\"做一个用户反馈系统\"",
+  "assertions": [
+    {
+      "text": "技能主动询问了目标用户",
+      "passed": null,
+      "evidence": "with_skill输出了询问目标用户的问题"
+    },
+    {
+      "text": "技能主动询问了使用场景",
+      "passed": null,
+      "evidence": "with_skill输出了询问使用场景的问题"
+    },
+    {
+      "text": "技能没有直接开始写PRD",
+      "passed": null,
+      "evidence": "with_skill先进行需求澄清，没有直接写PRD"
+    },
+    {
+      "text": "技能提供了需求确认清单",
+      "passed": null,
+      "evidence": "with_skill提供了需求确认清单模板"
+    }
+  ]
+}
